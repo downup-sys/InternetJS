@@ -1,0 +1,1 @@
+const apiCoreName = "@internetjs/core"
