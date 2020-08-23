@@ -1,4 +1,4 @@
-importModules = [
-    "@internetjs/core",
+function start(adress)
+{
     
-]
+}
