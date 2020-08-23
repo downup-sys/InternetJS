@@ -1,0 +1,62 @@
+*:root
+{
+    --black: #000000;
+    --red: #ff0000;
+    --blue: #0000ff;
+    --green: #00ff00;
+    --darkGreen: #006000;
+    --darkBlue: #000060;
+    --darkRed: #A00000;
+    --yellow: #ff0;
+    --magnata: #00ffff;
+    --teal: #20c997;
+    --orange: #fd7e14;
+    --warning: #ff7e14;
+    --danger: #ff0000;
+    --info: #17a2b8;
+    --pink: #f8f;
+    --white: #ffffff;
+}
+button
+{
+    border: var(--black) ridge 2px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+{
+    text-transform: uppercase;
+    font-weight: bolder;
+}
+
+a
+{
+    font-style: normal;
+    color: var(--black);
+}
+
+b
+{
+    font-weight: bolder;
+}
+
+.nodisplay
+{
+    display: none;
+}
+
+.blockDisplay
+{
+    display: block;
+}
+
+.headers
+{
+    size: 80px;
+    font-weight: bolder;
+    font
+}
